@@ -4,8 +4,8 @@
 <title>Login1 Example</title>
 <style>
 body  { font-family:Verdana;
-        color:aqua;
-        background-color:orange; }
+        color:orange;
+        background-color:aqua; }
 input { font-family:Verdana; width="1in"; }
 td    { text-align:center; }
 </style>
