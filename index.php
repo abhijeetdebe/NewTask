@@ -4,7 +4,7 @@
 <title>Login1 Example</title>
 <style>
 body  { font-family:Verdana;
-        color:orange;
+        color:red;
         background-color:aqua; }
 input { font-family:Verdana; width="1in"; }
 td    { text-align:center; }
